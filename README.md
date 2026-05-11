@@ -1,6 +1,6 @@
 Privacy Policy for ZoneDrive
 
-Last updated: May 11, 2025
+Last updated: May 11, 2026
 
 ZoneDrive does not collect, store, transmit, or share any personal data.
 
